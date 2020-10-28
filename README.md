@@ -1,6 +1,6 @@
 # R
 
-Random data visualizations with `R`
+Random data visualizations with `R`. Click image for code.
 
 ***
 
