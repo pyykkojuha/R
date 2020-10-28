@@ -1,4 +1,4 @@
-# R x dataviz
+# R
 
 Random data visualizations with `R`. Click image for code.
 
