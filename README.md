@@ -11,5 +11,6 @@ Random data visualizations with `R`. Click image for code.
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_WARRIORS.png" width="40%"></a>
 
 ### Kaffa
-<a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/KAFFA2019a_twitter.jpg" width="50%"></a>
-<a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/KAFFA2019a.jpg" width="50%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/FRKA.jpg" width="45%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/KAFFA2019a_twitter.jpg" width="45%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/KAFFA2019a.jpg" width="45%"></a>
