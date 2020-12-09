@@ -14,6 +14,7 @@ Random data visualizations with `R`. Click image for code.
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_LAKERS2.png"  width="30%"></a>
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_CELTICS.png"  width="30%"></a>
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_CAVALIERS.png" width="30%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_BULLS_DRJN_W.png" width="30%"></a>
 
 
 
