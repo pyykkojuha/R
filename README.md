@@ -26,3 +26,6 @@ Random data visualizations with `R`. Click image for code.
 ### [Kaffa](https://github.com/pyykkojuha/R/tree/main/Kaffa)
 <a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/FRKA.jpg" width="45%"></a>
 <a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/KAFFA2019a.jpg" width="45%"></a>
+
+### [OSM](https://github.com/pyykkojuha/R/tree/main/OSM)
+<a href="https://github.com/pyykkojuha/R/tree/main/OSM"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/OSM/tampere.png" width="45%"></a>
