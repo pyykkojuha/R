@@ -22,7 +22,7 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo). Cl
 <a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__169.png" width="90%"></a>
 
 ### [SGA](https://github.com/pyykkojuha/R/tree/main/SGA)
-<a href="https://raw.githubusercontent.com/pyykkojuha/R/main/SGA/SGA_USA_v_INTERGROWTH_AVG.png" width="90%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/SGA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/SGA/SGA_USA_v_INTERGROWTH_AVG.png" width="80%">
 
 ### [Kaffa](https://github.com/pyykkojuha/R/tree/main/Kaffa)
 <a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/FRKA.jpg" width="45%"></a>
