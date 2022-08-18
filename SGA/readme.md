@@ -15,4 +15,5 @@ See figures, R-code and XLSX-data for details.
 
 ---
 
-<img src="https://raw.githubusercontent.com/pyykkojuha/r/main/SGA/SGA_USA_v_INTERGROWTH_AVG.png" width="45%"> <img src="https://raw.githubusercontent.com/pyykkojuha/R/main/SGA/SGA_USA_v_INTERGROWTH_BOTH.png" width="45%"> 
+<img src="https://raw.githubusercontent.com/pyykkojuha/r/main/SGA/SGA_USA_v_INTERGROWTH_AVG.png" width="45%">
+<img src="https://raw.githubusercontent.com/pyykkojuha/R/main/SGA/SGA_USA_v_INTERGROWTH_BOTH.png" width="45%"> 
