@@ -1,6 +1,6 @@
 # R
 
-Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) [@juha_pyykko](https://twitter.com/juha_pyykko). Click images for code.
+Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [@juha_pyykko](https://twitter.com/juha_pyykko). Click images for code.
 
 ***
 
