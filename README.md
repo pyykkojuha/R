@@ -33,9 +33,9 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_BULLS_DRJN_W.png" width="30%"></a>
 
 ### [AFTER_HOURS](https://github.com/pyykkojuha/R/tree/main/AFTERHOURS)
-<a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__11A.jpg" width="45%"></a>
-<a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__11B.jpg" width="45%"></a>
-<a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__169.png" width="90%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__11A.jpg" width="30%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__11B.jpg" width="30%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__169.png" width="60%"></a>
 
 ### [Kaffa](https://github.com/pyykkojuha/R/tree/main/Kaffa)
 <a href="https://github.com/pyykkojuha/R/tree/main/Kaffa"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/Kaffa/FRKA.jpg" width="45%"></a>
