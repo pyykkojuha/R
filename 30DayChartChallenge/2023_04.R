@@ -76,4 +76,4 @@ PLOT <- ggplot(EKV) +
         plot.caption.position = "plot",
         plot.margin = unit(c(2, 2, 2, 2),"mm"))
 
-ggsave(PLOT, file=paste0(DIRECTORY, "30_2023_04.png"), width = 8*(2/3), height = 9*(2/3), units = "in")
+ggsave(PLOT, file=paste0(DIRECTORY, "30_2023_04.png"), width = 9*(2/3), height = 9*(2/3), units = "in")
