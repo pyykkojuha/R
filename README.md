@@ -2,6 +2,11 @@
 
 Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [@juha_pyykko](https://twitter.com/juha_pyykko). Click images for code.
 
+# Table of contents
+1. [SGA](#SGA)
+2. [#30DayChartChallenge](##30DayChartChallenge)
+3. [NBA](#NBA)
+
 ***
 
 ### [SGA](https://github.com/pyykkojuha/R/tree/main/SGA)
