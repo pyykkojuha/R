@@ -8,7 +8,7 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 3. [NBA](#NBA)
 4. [AFTER HOURS](#AFTER_HOURS)
 5. [Kaffa](#Kaffa)
-6. [Tampere](#Tampere)
+6. [OSM](#OSM)
 
 ***
 
