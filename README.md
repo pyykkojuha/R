@@ -4,15 +4,18 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 
 # Table of contents
 1. [SGA](#SGA)
-2. [#30DayChartChallenge](##30DayChartChallenge)
+2. [#30DayChartChallenge](#30DayChartChallenge)
 3. [NBA](#NBA)
+4. [AFTER HOURS](#AFTER_HOURS)
+5. [Kaffa](#Kaffa)
+6. [Tampere](#Tampere)
 
 ***
 
 ### [SGA](https://github.com/pyykkojuha/R/tree/main/SGA)
 <a href="https://github.com/pyykkojuha/R/tree/main/SGA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/SGA/SGA_USA_v_INTERGROWTH_AVG.png" width="80%">
 
-### [#30DayChartChallenge](https://github.com/pyykkojuha/R/tree/main/30DayChartChallenge)
+### [30DayChartChallenge](https://github.com/pyykkojuha/R/tree/main/30DayChartChallenge)
 
 <a href="https://github.com/pyykkojuha/R/tree/main/30DayChartChallenge"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/30DayChartChallenge/30_2023_04.png" width="50%" alt="2023/04"></a>
 
@@ -29,7 +32,7 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_CAVALIERS.png" width="30%"></a>
 <a href="https://github.com/pyykkojuha/R/tree/main/NBA"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_BULLS_DRJN_W.png" width="30%"></a>
 
-### [AFTER HOURS](https://github.com/pyykkojuha/R/tree/main/AFTERHOURS)
+### [AFTER_HOURS](https://github.com/pyykkojuha/R/tree/main/AFTERHOURS)
 <a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__11A.jpg" width="45%"></a>
 <a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__11B.jpg" width="45%"></a>
 <a href="https://github.com/pyykkojuha/R/tree/main/AFTERHOURS"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/AFTERHOURS/A_F_T_E_R__H_O_U_R_S__169.png" width="90%"></a>
