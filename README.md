@@ -9,6 +9,7 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 4. [AFTER HOURS](#AFTER_HOURS)
 5. [Kaffa](#Kaffa)
 6. [OSM](#OSM)
+7. [World](#World)
 
 ***
 
@@ -43,3 +44,7 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 
 ### [OSM](https://github.com/pyykkojuha/R/tree/main/OSM)
 <a href="https://github.com/pyykkojuha/R/tree/main/OSM"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/OSM/tampere.png" width="45%"></a>
+
+### [World](https://github.com/pyykkojuha/R/tree/main/World)
+<a href="https://github.com/pyykkojuha/R/tree/main/World"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/World/mammals_v_land.png" width="45%"></a>
+
