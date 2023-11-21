@@ -47,4 +47,5 @@ Random data visualizations with `R` by [@pyyxxo](https://twitter.com/pyyxxo) & [
 
 ### [World](https://github.com/pyykkojuha/R/tree/main/World)
 <a href="https://github.com/pyykkojuha/R/tree/main/World"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/World/mammals_v_land.png" width="45%"></a>
+<a href="https://github.com/pyykkojuha/R/tree/main/World"><img src="https://raw.githubusercontent.com/pyykkojuha/R/main/World/population_world_1801_2021_point.png" width="45%"></a>
 
